@@ -10,7 +10,7 @@ problem_mapping = {
                 "total": 10001
             },
             "Python: count_bits.py": {
-                "passed": 0,
+                "passed": 2,
                 "total": 10001
             }
         },
@@ -24,7 +24,7 @@ problem_mapping = {
                 "total": 10000
             },
             "Python: parity.py": {
-                "passed": 0,
+                "passed": 10000,
                 "total": 10000
             }
         },
@@ -52,7 +52,7 @@ problem_mapping = {
                 "total": 10000
             },
             "Python: reverse_bits.py": {
-                "passed": 0,
+                "passed": 10000,
                 "total": 10000
             }
         },
@@ -108,7 +108,7 @@ problem_mapping = {
                 "total": 10002
             },
             "Python: power_x_y.py": {
-                "passed": 0,
+                "passed": 10002,
                 "total": 10002
             }
         },
@@ -122,7 +122,7 @@ problem_mapping = {
                 "total": 19952
             },
             "Python: reverse_digits.py": {
-                "passed": 0,
+                "passed": 19952,
                 "total": 19952
             }
         },
@@ -164,7 +164,7 @@ problem_mapping = {
                 "total": 10000
             },
             "Python: rectangle_intersection.py": {
-                "passed": 0,
+                "passed": 10000,
                 "total": 10000
             }
         }
@@ -180,7 +180,7 @@ problem_mapping = {
                 "total": 1001
             },
             "Python: even_odd_array.py": {
-                "passed": 0,
+                "passed": 1001,
                 "total": 1001
             }
         },
@@ -194,7 +194,7 @@ problem_mapping = {
                 "total": 204
             },
             "Python: dutch_national_flag.py": {
-                "passed": 0,
+                "passed": 204,
                 "total": 204
             }
         },
@@ -208,7 +208,7 @@ problem_mapping = {
                 "total": 505
             },
             "Python: int_as_array_increment.py": {
-                "passed": 0,
+                "passed": 505,
                 "total": 505
             }
         },
