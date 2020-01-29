@@ -5,7 +5,7 @@ from test_framework import generic_test
 
 
 def remove_duplicates(L: ListNode) -> Optional[ListNode]:
-    # TODO - you fill in here.
+    print(L[0])
     return None
 
 
