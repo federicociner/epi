@@ -1,8 +1,8 @@
+import string
 from test_framework import generic_test
 
 
 def convert_base(num_as_string: str, b1: int, b2: int) -> str:
-    # TODO - you fill in here.
     return ""
 
 
